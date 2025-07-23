@@ -1,7 +1,7 @@
 <!DOCTYPE html5>
 <html lang="en">
-<head><title>Taste of Travel</title>
-
+<head>
+Taste of Travel
 <meta charset="UTF-8">
 <meta name="description" content="Embark on a culinary adventure with taste of travel, exploring global flavors and recipes.">
 </head>
